@@ -8,7 +8,7 @@ Date: 2016-04-13
 1, Project Name
 
   * `IPEDS`: Integrated Postsecondary Education Data 
-  * `DCP`: DELTA COST PROJECT
+  * `DCP`: Delta Cost Project
 
 2, Introduction:
 
